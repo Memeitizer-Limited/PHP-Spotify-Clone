@@ -42,14 +42,14 @@ foreach ($songs as $song) {
     <link rel="stylesheet" href="./css/searchPage.css">
     <link rel="stylesheet" href="./css/favourite.css">
     <link href='https://css.gg/home.css' rel='stylesheet'>
-    <title>Spotify</title>
+    <title>Memeitizer Music</title>
 </head>
 
 <body>
     <div class="login-modal">
         <div class="login-modal__logo">
             <i class="fab fa-spotify"></i>
-            <h2>Not Spotify</h2>
+            <h2>Memeitizer Music</h2>
         </div>
         <div class="login-modal__info">
             <p>You have to login to use this feature.</p>
