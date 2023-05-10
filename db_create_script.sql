@@ -130,7 +130,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`id`, `username`, `password`, `groupID`) VALUES
 (5, 'pum', '58af57d4977baf21166dbfb12b606789', 2),
-(9, 'baobao', 'b6c6cfe1a7ba5eac0f984f3ef97c8490', 1);
+(9, 'meme', 'memeitizer', 1);
 
 --
 -- Indexes for dumped tables
